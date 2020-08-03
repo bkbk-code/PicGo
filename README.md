@@ -1,2 +1,2 @@
-# PicGo
-高效免费图床 PicGo +Github+JSdelivr
+# img
+高效免费图床 Github+JSdelivr
